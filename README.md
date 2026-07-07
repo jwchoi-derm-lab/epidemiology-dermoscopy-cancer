@@ -1,13 +1,15 @@
 # Impact of Dermoscopy Reimbursement on Skin Cancer Incidence: Statistical Codebase
 
-This repository contains the R scripts used to evaluate the impact of national **dermoscopy reimbursement** and the **COVID-19 pandemic** on the incidence rates of skin cancers. It provides a workflow including dummy data generation, Interrupted Time Series (ITS) modeling, and visualizations.
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/jwchoi-derm-lab/epidemiology-dermoscopy-cancer
 ) 
 ![GitHub last commit](https://img.shields.io/github/last-commit/jwchoi-derm-lab/epidemiology-dermoscopy-cancer
 )
 ![GitHub issues](https://img.shields.io/github/issues/jwchoi-derm-lab/epidemiology-dermoscopy-cancer
 )
+
+---
+
+This repository contains the R scripts used to evaluate the impact of national **dermoscopy reimbursement** and the **COVID-19 pandemic** on the incidence rates of skin cancers. It provides a workflow including dummy data generation, Interrupted Time Series (ITS) modeling, and visualizations.
 
 ## 🔬 Clinical Context & Codes
 
