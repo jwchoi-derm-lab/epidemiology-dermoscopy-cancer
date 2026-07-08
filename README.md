@@ -6,12 +6,15 @@
 
 A statistical codebase evaluating the impact of national **dermoscopy reimbursement** and the **COVID-19 pandemic** on skin cancer incidence rates. This repository provides a fully reproducible workflow — from synthetic data generation to Interrupted Time Series (ITS) modeling and publication-ready visualizations.
 
+> 📢 **Note:** This repository accompanies a manuscript currently under peer review. In accordance with the journal's Data Availability Statement, this repository will be made publicly accessible upon publication of the article.
+
 ---
 
 ## 📖 Table of Contents
 - [Clinical Context](#-clinical-context--codes)
 - [Repository Structure](#-repository-structure)
 - [Getting Started](#-getting-started)
+- [Data Availability](#-data-availability)
 - [License](#-license)
 
 ---
@@ -76,6 +79,14 @@ Generates a 100% stacked bar plot showing the annual composition of diagnostic c
    source("R/01_interrupted_time_series_analysis.R")
    source("R/02_stacked_bar_trend_plot.R")
    ```
+
+---
+
+## 📊 Data Availability
+
+The analytic code used in this study is openly available in this GitHub repository ([https://github.com/jwchoi-derm-lab/epidemiology-dermoscopy-cancer](https://github.com/jwchoi-derm-lab/epidemiology-dermoscopy-cancer)) and will be accessible to the public from the date of publication onward. Prior to publication, the code is available from the corresponding author upon reasonable request from editors or reviewers.
+
+Due to data protection regulations of the Korean National Health Insurance Service (NHIS), the underlying patient-level dataset used in this study cannot be shared publicly. A synthetic sample dataset (`00_generate_sample_data.R`) is provided instead to allow full reproducibility of the analytic workflow.
 
 ---
 
