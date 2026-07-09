@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-A statistical codebase evaluating the impact of national **dermoscopy reimbursement** and the **COVID-19 pandemic** on skin cancer incidence rates. This repository provides a fully reproducible workflow — from synthetic data generation to Interrupted Time Series (ITS) modeling and publication-ready visualizations.
+A statistical codebase evaluating the impact of national **dermoscopy reimbursement** and the **COVID-19 pandemic** on skin cancer incidence rates. This repository provides a fully reproducible workflow — from synthetic data generation to Interrupted Time Series (ITS) modeling and visualizations.
 
 > 📢 **Note:** This repository accompanies a manuscript currently under peer review. In accordance with the journal's Data Availability Statement, this repository will be made publicly accessible upon publication of the article.
 
